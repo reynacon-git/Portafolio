@@ -43,7 +43,7 @@ Identifiqué operadores ineficientes para un call center (Porcentaje de llamadas
 
 <img src="Captura de pantalla 2025-01-12 143346.png">
 
-#### Dato para destacar: 
+#### Dato para destacar💫: 
 Si tenemos 1093 operadores en total y 635 tienen una tasa de llamadas perdidas superior al 30%,
 estamos hablando de aproximadamente el 58% del equipo. Esto es un porcentaje considerable y
 sugiere un problema sistémico más allá de casos individuales.
@@ -55,17 +55,16 @@ Las conclusiones que obtuve fueron que los clientes que asisten con más frecuen
 
 • 🛠️ que use: Python (Numpy, Pandas, Seaborn, Matplotlib, Scipy)
 
-<img src="Captura de pantalla 2025-01-12 143346.png">
+<img src="model_fitness_grafico.png">
 
-#### Dato a destacar:
-“avg_class_frequency_total” y “avg_class_frequency_current_month” tienen una correlación
-muy alta (cercana a 1), lo que sugiere que la frecuencia promedio de visitas en general está muy
-relacionada con la frecuencia en el mes actual. Esto es esperable, ya que los usuarios que suelen ir
-al gimnasio con frecuencia tienden a mantener ese hábito.
-“contract_period” y “month_to_end_contract” están fuertemente correlacionadas. Esto se debe
-a que a mayor duración del contrato, más meses quedan hasta su finalización.
-“churn” y “contract_period” tienen una correlación negativa esto sugiere que los usuarios con
-contratos más largos tienen menos probabilidades de cancelar su membresía.
+#### Dato a destacar💫:
+“avg_class_frequency_total” y “avg_class_frequency_current_month” tienen una correlación muy alta (cercana a 1), lo que sugiere que la frecuencia promedio de visitas en general está muy relacionada con la frecuencia en el mes actual. Esto es esperable, ya que los usuarios que suelen ir al gimnasio con frecuencia tienden a mantener ese hábito.
+
+“contract_period” y “month_to_end_contract” están fuertemente correlacionadas. Esto se debe a que a mayor duración del contrato, más meses quedan hasta su finalización.
+
+
+“churn” y “contract_period” tienen una correlación negativa esto sugiere que los usuarios con contratos más largos tienen menos probabilidades de cancelar su membresía.
+
 Por ultimo, “churn” y variables relacionadas con la frecuencia de visitas indica que los usuarios que van al gimnasio con más frecuencia tienen menos probabilidades de cancelar.
 
 
