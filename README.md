@@ -2,13 +2,19 @@
 Soy una Data Analyst junior, mi formación en Psicología, me permite ofrecer una perspectiva única en el análisis de datos. Me enfoco en comprender a profundidad las necesidades y preferencias de los consumidores para diseñar soluciones de datos que generen un verdadero impacto en el negocio. Mi objetivo es construir puentes entre los datos y las personas.
 
 ## Estudios 📚
-- Realice un bootcamp intesivo de Data Analyst en TripleTen, siendo una estudiante descataca📊
-- Estudie en la Universidad de Buenos Aires de 2019 a 2022, Licenciatura en piscologia 🧠, aunque no pude culminar me permitió desarrollar habilidades como estadistica, analisis y comprension del comportamiento humano.
-- Tambien poseo un certificado en marketing digital
+• Realice un bootcamp intesivo de Data Analyst en TripleTen, siendo una estudiante descataca📊
+• Estudie en la Universidad de Buenos Aires de 2019 a 2022, Licenciatura en piscologia 🧠, aunque no pude culminar me permitió desarrollar habilidades como estadistica, analisis y comprension del comportamiento humano.
+• Tambien poseo un certificado en fundamentos del marketing digital
 
 ## Proyectos destacados 
 Durante mis estudios realice en total 14 proyectos los cuales me permitieron ademas de adquirir el conocimiento, practicar con las diferentes herramientas 🛠️. 
 ### Call Me Maybe
+Identifiqué operadores ineficientes para un call center (Porcentaje de llamadas perdidas, el tiempo de espera promedio y el número de llamadas resueltas por operador). Desarrollé un plan de acción para la mejora de rendimiento de los operadores. Enfocado en el bienestar y mayores beneficios para los empleados 
+• Creación de un dashboard interactivo en Tableau para visualizar los resultados. 
+• 🛠️ que use: Python (Numpy, Pandas, Seaborn, Matplotlib, Scipy) y Tableu.
+### Model Fitness
+Como objetivo optimicé sus estrategias para reducir la tasa de cancelación y aumentar la fidelización de sus usuarios. Desarrollé un modelo predictivo capaz de identificar a los clientes con mayor probabilidad de abandonar el gimnasio. A través de técnicas de aprendizaje automático, como la clasificación y el clustering, se busca identificar patrones y tendencias que permitan predecir la cancelación de la membresía.
+Las conclusiones que obtuve fueron que los clientes que asisten con más frecuencia al gimnasio tienen una mayor probabilidad de permanecer como miembros.Tambien los clientes valoran las experiencias personalizadas y las recomendaciones adaptadas a sus necesidades, por eso la segmentación de clientes permite estrategias más efectivas como identificar diferentes perfiles de clientes que permita diseñar programas y ofertas más relevantes.Otro patron a resaltar es que los contratos a largo plazo fomentan la lealtad, los clientes con contratos más largos tienen una menor probabilidad de cancelar. La clave para mejorar la retención de clientes en Model Fitness es centrarse en ofrecer una experiencia personalizada y atractiva que fomente la lealtad y el compromiso a largo plazo
 
 ## Skills 🛠️
 
