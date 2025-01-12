@@ -8,6 +8,7 @@ Soy una Data Analyst junior, mi formación en Psicología, me permite ofrecer un
 
 ## Proyectos destacados 
 Durante mis estudios realice en total 14 proyectos los cuales me permitieron ademas de adquirir el conocimiento, practicar con las diferentes herramientas 🛠️. 
+### Call Me Maybe
 
 ## Skills 🛠️
 
