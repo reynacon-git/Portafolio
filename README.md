@@ -38,7 +38,7 @@ Identifiqué operadores ineficientes para un call center (Porcentaje de llamadas
 
 • 🛠️ que use: Python (Numpy, Pandas, Seaborn, Matplotlib, Scipy) y Tableu.
 
-https://drive.google.com/drive/folders/1WpDE0LrWlR1Q3MQYN6jtaozbe4EBrrjR 
+<a href="https://drive.google.com/drive/folders/1WpDE0LrWlR1Q3MQYN6jtaozbe4EBrrjR"> 
 
 <img src="Captura de pantalla 2025-01-12 143346.png">
 
