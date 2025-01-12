@@ -8,10 +8,11 @@ Soy una Data Analyst junior, mi formación en Psicología, me permite ofrecer un
 
 ## Proyectos destacados 
 Durante mis estudios realice en total 14 proyectos los cuales me permitieron ademas de adquirir el conocimiento, practicar con las diferentes herramientas 🛠️. 
-### Call Me Maybe
+### Call Me Maybe 📞
 Identifiqué operadores ineficientes para un call center (Porcentaje de llamadas perdidas, el tiempo de espera promedio y el número de llamadas resueltas por operador). Desarrollé un plan de acción para la mejora de rendimiento de los operadores. Enfocado en el bienestar y mayores beneficios para los empleados 
 • Creación de un dashboard interactivo en Tableau para visualizar los resultados. 
 • 🛠️ que use: Python (Numpy, Pandas, Seaborn, Matplotlib, Scipy) y Tableu.
+https://drive.google.com/drive/folders/1WpDE0LrWlR1Q3MQYN6jtaozbe4EBrrjR 
 
 ### Model Fitness 🏋️‍♀️
 Como objetivo optimicé sus estrategias para reducir la tasa de cancelación y aumentar la fidelización de sus usuarios. Desarrollé un modelo predictivo capaz de identificar a los clientes con mayor probabilidad de abandonar el gimnasio. A través de técnicas de aprendizaje automático, como la clasificación y el clustering, se busca identificar patrones y tendencias que permitan predecir la cancelación de la membresía.
