@@ -38,7 +38,6 @@ Identifiqué operadores ineficientes para un call center (Porcentaje de llamadas
 
 • 🛠️ que use: Python (Numpy, Pandas, Seaborn, Matplotlib, Scipy) y Tableu.
 
-<a href="https://drive.google.com/drive/folders/1WpDE0LrWlR1Q3MQYN6jtaozbe4EBrrjR">
  <a href="https://drive.google.com/drive/folders/1WpDE0LrWlR1Q3MQYN6jtaozbe4EBrrjR"><img src="https://img.shields.io/badge/-Presentacion%20%20-9933CC?style=flat&logoColor=white"/></a>
 
 <img src="Captura de pantalla 2025-01-12 143346.png">
@@ -54,6 +53,8 @@ Como objetivo optimicé sus estrategias para reducir la tasa de cancelación y a
 Las conclusiones que obtuve fueron que los clientes que asisten con más frecuencia al gimnasio tienen una mayor probabilidad de permanecer como miembros.Tambien los clientes valoran las experiencias personalizadas y las recomendaciones adaptadas a sus necesidades, por eso la segmentación de clientes permite estrategias más efectivas como identificar diferentes perfiles de clientes que permita diseñar programas y ofertas más relevantes.Otro patron a resaltar es que los contratos a largo plazo fomentan la lealtad, los clientes con contratos más largos tienen una menor probabilidad de cancelar. La clave para mejorar la retención de clientes en Model Fitness es centrarse en ofrecer una experiencia personalizada y atractiva que fomente la lealtad y el compromiso a largo plazo.
 
 • 🛠️ que use: Python (Numpy, Pandas, Seaborn, Matplotlib, Scipy)
+
+<a href="https://drive.google.com/drive/folders/1WpDE0LrWlR1Q3MQYN6jtaozbe4EBrrjR"><img src="https://img.shields.io/badge/-Proyecto%20%20-D70A53?style=flat&logoColor=white"/></a>
 
 <img src="model_fitness_grafico.png">
 
@@ -77,6 +78,10 @@ Visualización de los resultados mediante gráficos y diagramas en Matplotlib y 
 Este proyecto me permitió desarrollar habilidades en la manipulación de grandes conjuntos de datos, la extracción de insights relevantes y la comunicación efectiva de los resultados a través de visualizaciones.
 
 • 🛠️ que use: Python y SQL
+
+<a href="https://drive.google.com/drive/folders/1WpDE0LrWlR1Q3MQYN6jtaozbe4EBrrjR"><img src="https://img.shields.io/badge/-Proyecto%20%20-3DDC84?style=flat&logoColor=white"/></a>
+
+<img src="sql_libros.png">
 
 #### Dato a destacar:
 La distribución de las calificaciones muestra una tendencia hacia las valoraciones positivas, con un
