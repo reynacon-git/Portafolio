@@ -39,7 +39,7 @@ Identifiqué operadores ineficientes para un call center (Porcentaje de llamadas
 • 🛠️ que use: Python (Numpy, Pandas, Seaborn, Matplotlib, Scipy) y Tableu.
 https://drive.google.com/drive/folders/1WpDE0LrWlR1Q3MQYN6jtaozbe4EBrrjR 
 
-Captura de pantalla 2025-01-12 143346.png
+<img src="Captura de pantalla 2025-01-12 143346.png">
 
 Si tenemos 1093 operadores en total y 635 tienen una tasa de llamadas perdidas superior al 30%,
 estamos hablando de aproximadamente el 58% del equipo. Esto es un porcentaje considerable y
