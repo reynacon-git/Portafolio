@@ -77,3 +77,7 @@ Visualización de los resultados mediante gráficos y diagramas en Matplotlib y 
 Este proyecto me permitió desarrollar habilidades en la manipulación de grandes conjuntos de datos, la extracción de insights relevantes y la comunicación efectiva de los resultados a través de visualizaciones.
 
 • 🛠️ que use: Python y SQL
+
+#### Dato a destacar:
+La distribución de las calificaciones muestra una tendencia hacia las valoraciones positivas, con un
+pico en el rango de 4 a 4.5 estrellas. Esto sugiere que el contenido de la plataforma es en general bien recibido por los usuarios.
