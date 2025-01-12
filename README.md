@@ -42,6 +42,7 @@ Identifiqué operadores ineficientes para un call center (Porcentaje de llamadas
 
 <img src="Captura de pantalla 2025-01-12 143346.png">
 
+#### Dato para destacar: 
 Si tenemos 1093 operadores en total y 635 tienen una tasa de llamadas perdidas superior al 30%,
 estamos hablando de aproximadamente el 58% del equipo. Esto es un porcentaje considerable y
 sugiere un problema sistémico más allá de casos individuales.
