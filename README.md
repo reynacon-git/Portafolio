@@ -55,6 +55,20 @@ Las conclusiones que obtuve fueron que los clientes que asisten con más frecuen
 
 • 🛠️ que use: Python (Numpy, Pandas, Seaborn, Matplotlib, Scipy)
 
+<img src="Captura de pantalla 2025-01-12 143346.png">
+
+#### Dato a destacar:
+“avg_class_frequency_total” y “avg_class_frequency_current_month” tienen una correlación
+muy alta (cercana a 1), lo que sugiere que la frecuencia promedio de visitas en general está muy
+relacionada con la frecuencia en el mes actual. Esto es esperable, ya que los usuarios que suelen ir
+al gimnasio con frecuencia tienden a mantener ese hábito.
+“contract_period” y “month_to_end_contract” están fuertemente correlacionadas. Esto se debe
+a que a mayor duración del contrato, más meses quedan hasta su finalización.
+“churn” y “contract_period” tienen una correlación negativa esto sugiere que los usuarios con
+contratos más largos tienen menos probabilidades de cancelar su membresía.
+Por ultimo, “churn” y variables relacionadas con la frecuencia de visitas indica que los usuarios que van al gimnasio con más frecuencia tienen menos probabilidades de cancelar.
+
+
 ### APP de lectura 📖
 Empleando Python y SQL, realicé un análisis exploratorio de una base de datos de una aplicación de lectura. A través de la limpieza y transformación de los datos, construí un conjunto de datos coherente para realizar análisis estadísticos y generar visualizaciones informativas.Las principales tareas realizadas incluyeron:
 Extracción de datos relevantes de una base de datos SQL.
