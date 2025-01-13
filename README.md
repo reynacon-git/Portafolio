@@ -54,7 +54,7 @@ Las conclusiones que obtuve fueron que los clientes que asisten con más frecuen
 
 • 🛠️ que use: Python (Numpy, Pandas, Seaborn, Matplotlib, Scipy)
 
-<a href="https://drive.google.com/drive/folders/1WpDE0LrWlR1Q3MQYN6jtaozbe4EBrrjR"><img src="https://img.shields.io/badge/-Proyecto%20%20-D70A53?style=flat&logoColor=white"/></a>
+<a href="https://github.com/reynacon-git/Pronostico-y-predicciones"><img src="https://img.shields.io/badge/-Proyecto%20%20-D70A53?style=flat&logoColor=white"/></a>
 
 <img src="model_fitness_grafico.png">
 
@@ -79,7 +79,7 @@ Este proyecto me permitió desarrollar habilidades en la manipulación de grande
 
 • 🛠️ que use: Python y SQL
 
-<a href="https://drive.google.com/drive/folders/1WpDE0LrWlR1Q3MQYN6jtaozbe4EBrrjR"><img src="https://img.shields.io/badge/-Proyecto%20%20-3DDC84?style=flat&logoColor=white"/></a>
+<a href="https://github.com/reynacon-git/APP-de-libros-con-SQL-"><img src="https://img.shields.io/badge/-Proyecto%20%20-3DDC84?style=flat&logoColor=white"/></a>
 
 <img src="sql_libros.png">
 
