@@ -2,9 +2,9 @@
 Soy una Data Analyst junior, mi formación en Psicología, me permite ofrecer una perspectiva única en el análisis de datos. Me enfoco en comprender a profundidad las necesidades y preferencias de los consumidores para diseñar soluciones de datos que generen un verdadero impacto en el negocio. Mi objetivo es construir puentes entre los datos y las personas.
 
 ## Estudios 📚
-• Realice un bootcamp intesivo de Data Analyst durante 7 meses en TripleTen LATAM, siendo una estudiante descataca📊
+• Realicé un bootcamp intesivo de Data Analyst durante 7 meses en TripleTen LATAM, siendo una estudiante descataca📊
 
-• Estudie en la Universidad de Buenos Aires de 2019 a 2022, Licenciatura en piscologia 🧠, aunque no pude culminar me permitió desarrollar habilidades como estadistica, analisis y comprension del comportamiento humano.
+• Estudié en la Universidad de Buenos Aires de 2019 a 2022, Licenciatura en piscologia 🧠, aunque no pude culminar me permitió desarrollar habilidades como estadistica, analisis y comprension del comportamiento humano.
 
 • Tambien poseo un certificado en fundamentos del marketing digital
 
@@ -30,7 +30,7 @@ Soy una Data Analyst junior, mi formación en Psicología, me permite ofrecer un
 ![SPSS_Software](https://img.shields.io/badge/SPSS_Software-%232C5263.svg?style=for-the-badge&logo=SPSS_Software&logoColor=white)&nbsp;
 
 ## Proyectos destacados 
-Durante mis estudios realice en total 14 proyectos los cuales me permitieron ademas de adquirir el conocimiento, practicar con las diferentes herramientas 🛠️. 
+Durante mis estudios realicé en total 14 proyectos los cuales me permitieron ademas de adquirir el conocimiento, practicar con las diferentes herramientas 🛠️. 
 ### Call Me Maybe 📞
 Identifiqué operadores ineficientes para un call center (Porcentaje de llamadas perdidas, el tiempo de espera promedio y el número de llamadas resueltas por operador). Desarrollé un plan de acción para la mejora de rendimiento de los operadores. Enfocado en el bienestar y mayores beneficios para los empleados 
 
